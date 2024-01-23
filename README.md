@@ -6,7 +6,7 @@ Hello there! 👋 I'm Tamara, a passionate data enthusiast who recently complete
 
 - 🎓 Recent graduate from DataScientest.com, diploma co-certified by MINES ParisTech
 - 💼 Actively seeking employment opportunities in the field of Data Analysis.
-- 🌐 [a = https://www.linkedin.com/in/tamara-le-thery-2b3883133/] My Linkedin [/a]
+- 🌐 [My LinkedIn](https://www.linkedin.com/in/tamara-le-thery-2b3883133/)
   
 
 
