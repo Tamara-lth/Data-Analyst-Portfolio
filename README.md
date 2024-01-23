@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Analyst Portfolio 🚀
 
 Hello there! 👋 I'm Tamara, a passionate data enthusiast who recently completed a comprehensive Data Analyst training program. My goal is to leverage my analytical skills and passion for data to secure a challenging position in the field of data analysis.
 
